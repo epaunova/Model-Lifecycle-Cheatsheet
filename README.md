@@ -1,24 +1,59 @@
-# 📘 LLM Lifecycle Cheatsheet
+# 📘 LLM Lifecycle Cheatsheet (Expanded)
 
-A concise reference mapping the full lifecycle of large language models (LLMs) — from dataset prep and fine-tuning to evaluation, deployment, and safety.
+A modular and structured reference for understanding and building LLM-based products — from raw data to safe, aligned, optimized deployment.
 
-This markdown-based project is meant for:
-- AI product teams
-- Prompt engineers
-- Researchers turning models into products
+Each section includes practical examples, real prompts, and actionable insights — based on my hands-on experience as an AI Product Manager working on LLMs and GenAI tools.
 
-## 🔍 Topics Covered
+---
 
-- 📥 Data Preparation  
-- ⚙️ Training (SFT, LoRA, QLoRA)  
-- 🧪 Evaluation (benchmarks, GPT auto-grading, human scoring)  
-- 🚀 Deployment (quantization, latency optimization)  
-- 🔒 Alignment & Safety (RLHF, filters, explainability)
+## 📁 Sections & Highlights
 
-## 📎 Reference
+### 📥 [Data Preparation](./data-prep/README.md)
+- Clean dataset structuring  
+- Tokenization tools comparison  
+- 👉 [`data_formats_and_tokenization.md`](./data-prep/data_formats_and_tokenization.md)
 
-Main content is in [`llm-lifecycle-map.md`](llm-lifecycle-map.md)  
-Originally created by [Eva Hristova Paunova](https://www.linkedin.com/in/eva-hristova-paunova-a194b3210/)
+---
+
+### ⚙️ [Fine-Tuning](./fine-tuning/README.md)
+- LoRA & QLoRA strategies  
+- Lightweight adaptation logic  
+- 👉 [`lora_finetuning_example.md`](./fine-tuning/lora_finetuning_example.md)
+
+---
+
+### 🧪 [Evaluation](./evaluation/README.md)
+- Benchmarking and GPT auto-grading  
+- Human preference metrics  
+- 👉 [`gpt_auto_eval_prompt.md`](./evaluation/gpt_auto_eval_prompt.md)
+
+---
+
+### 🚀 [Deployment](./deployment/README.md)
+- Quantization, latency tips  
+- Serving frameworks for scale  
+- 👉 [`quantization_and_latency.md`](./deployment/quantization_and_latency.md)
+
+---
+
+### 🔒 [Safety & Alignment](./safety/README.md)
+- Red-teaming practices  
+- Prompt injection examples  
+- 👉 [`redteaming_guidelines.md`](./safety/redteaming_guidelines.md)
+
+---
+
+## 🙋‍♀️ Author
+
+Created by [Eva Hristova Paunova](https://www.linkedin.com/in/eva-hristova-paunova-a194b3210/)  
+Freelance AI PM | LLM Strategy | Evaluation & GenAI Products
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License © 2025
+
 
 
 <p align="center">
