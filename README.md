@@ -18,7 +18,9 @@ This markdown-based project is meant for:
 ## 📎 Reference
 
 Main content is in [`llm-lifecycle-map.md`](llm-lifecycle-map.md)  
-Originally created by https://www.linkedin.com/in/eva-hristova-paunova-a194b3210/
+Originally created by [Eva Hristova Paunova](https://www.linkedin.com/in/eva-hristova-paunova-a194b3210/)
+
+
 View the project: [github.com/epaunova/Model-Lifecycle-Cheatsheet](https://github.com/epaunova/Model-Lifecycle-Cheatsheet)
 
 ## 📄 License
