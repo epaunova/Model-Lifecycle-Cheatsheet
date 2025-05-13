@@ -6,4 +6,5 @@ A concise reference covering the full lifecycle of LLMs — from data prep and f
 - `llm-lifecycle-map.md` – full cheatsheet
 - Real-world productization insights from GenAI experience
 
-📎 LinkedIn: [Eva Paunova](https://linkedin.com/in/epaunova)
+📎 LinkedIn: [[Eva Paunova](https://linkedin.com/in/epaunova)
+](https://www.linkedin.com/in/eva-hristova-paunova-a194b3210/)
